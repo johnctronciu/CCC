@@ -1,4 +1,5 @@
-#For coding contests that have a sample input with a desired outcome to test code instead of manually entering your inputs each time you can use a input file
+#For coding contests that have a sample input with a desired outcome to test code instead of manually entering your inputs each time 
+#you can use a input file
 #You can do this in contests to save time using pythons file manipulation commands
 
 #file = open("Inputs.txt","w+") → "w+" creates a file
