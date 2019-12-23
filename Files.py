@@ -6,7 +6,7 @@
 #file.close()
 
 #file = open("Inputs.txt","r") → "r" opens the file in read mode
-#inp = file.read()
+#inp = file.read() → Read reads the entire file
 
 #print(inp)
 #This is how you would set it up if you would like to creat and read the input file in python
@@ -15,7 +15,7 @@
 
 file = open("2015S1.txt", "r")
 
-i = int(file.readline())
+i = int(file.readline()) #→ Readline reads one line of the file at a time
 statement = []
 
 for num in range(i):
