@@ -9,7 +9,7 @@
 #inp = file.read() → Read reads the entire file
 
 #print(inp)
-#This is how you would set it up if you would like to creat and read the input file in python
+#This is how you would set it up if you would like to create and read the input file in python
 
 ##Sample using an actual problem
 
